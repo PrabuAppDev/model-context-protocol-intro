@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+      "career_path_1": {
+        "type": "string",
+        "description": "First career path to evaluate"
+      },
+      "career_path_2": {
+        "type": "string",
+        "description": "Second career path to evaluate"
+      }
+    },
+    "required": ["career_path_1", "career_path_2"]
+  }  

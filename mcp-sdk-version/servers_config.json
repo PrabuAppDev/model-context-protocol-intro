@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+      "sqlite": {
+        "url": "http://localhost:5005"
+      }
+    }
+  }  
